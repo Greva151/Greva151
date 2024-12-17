@@ -13,8 +13,6 @@ Since I was a child I have always been passionate about the world of IT. In rece
 * ⚡  I'm secretly a farmer... but don't tell anyone
 
 <a href="https://www.github.com/Greva151" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Greva151?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
-
 ### Skills
 
 

@@ -12,7 +12,7 @@ Since I was a child I have always been passionate about the world of IT. In rece
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  I'm secretly a farmer... but don't tell anyone
 
-<a href="https://www.github.com/Greva151" target="_blank" rel="noreferrer">
+
 ### Skills
 
 
